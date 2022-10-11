@@ -1,0 +1,56 @@
+#toDo {
+    padding: 40px  ;
+    padding-left: 100px;
+    background-color: #26a743;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#addItem {
+    height:20px;
+    width:400px;
+}
+
+#task {
+    
+    padding: 20px; 
+    padding-left: 100px;
+    width: 80%;
+ 
+ }
+
+.html{
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.html2{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.edit1{
+    margin-left: 81%;    
+    background-color:lightgreen;
+    color: white;
+    font-size: 20px;
+}
+.edit2{
+    margin-left: 82.5%;    
+    background-color:lightgreen;
+    color: white;
+    font-size: 20px;
+}
+.edit3{
+    margin-left: 77.5%;    
+    background-color:lightgreen;
+    color: white;
+    font-size: 20px;
+}
+.delete{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
