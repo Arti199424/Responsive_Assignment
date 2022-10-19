@@ -1,0 +1,125 @@
+h1{
+    background-color:steelblue;  
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-weight: 200;
+}
+.img1{
+    
+  width: 250px;
+  height: 250px;
+  margin-left: 150px;
+  
+}
+.img2{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+   
+  }
+  .img3{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    margin-right: 150px;
+  }
+  .img4{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 250px;
+    margin-top:50px
+  }
+  .img5{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-top:50px
+  }
+  .img6{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 250px;
+    margin-top:50px
+  }
+  .img7{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-top:50px
+  }
+.button1{
+ margin-left: 47%;
+ margin-bottom: 2%;
+ font-size: medium;
+ border-color: brown;
+ font-weight: bold;
+ background-color: white;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ width: 10%;
+  height: 10%;
+}
+.button2{
+    margin-left: 46%;
+    background-color:rgb(216, 112, 147);
+    margin-bottom: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color:rgb(216, 112, 147);
+    color: white;
+    width: 13%;
+    height: 25px;
+    font-size: small;
+    
+
+}
+   .button3{
+    margin-left: 46%;
+    background-color: white;
+    border-color:rgb(216, 112, 147);
+    color: black;
+    width: 13%;
+    height: 25px;
+    font-size: small;
+}
+.footer{
+    margin-top: 15px;
+    background-color: maroon;  
+    color: white;
+    width: 100%;
+    padding-top: 20px; 
+   text-align: center;
+    height: 40px ;
+ }
+
+
+#footer_elements1{
+border-bottom-style: dashed;
+font-size: small;
+}
+#footer_elements2{
+    border-bottom-style: dashed;
+    margin-left: 8px;
+    font-size: small;
+    }
+#footer_elements3{
+        border-bottom-style: dashed;
+        margin-left: 8px;
+        font-size: small;
+        }
+        a{
+            color: white;
+        }
+        a:hover {
+            background-color: blue;
+        
+          }
