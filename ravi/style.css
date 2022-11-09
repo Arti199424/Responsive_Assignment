@@ -1,0 +1,16 @@
+
+html,body{
+    margin: 0px;
+    padding: 0px;
+}
+.outer{
+    background-color: rebeccapurple;
+    height: 500px;
+    width: 500px;
+}
+.inner{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin: 50px 30px 50px 50px;
+}
